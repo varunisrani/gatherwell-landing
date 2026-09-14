@@ -1,0 +1,21 @@
+# GatherWell
+
+> A green-and-cream portfolio demo of a church community workspace for pastors and community members.
+
+Canonical: https://gatherwell-landing.vercel.app/
+
+## Overview
+
+GatherWell brings fictional people, groups, gatherings, communication, prayer, and care workflows together in a browser-based demonstration. Visitors can explore either experience without creating an account. Demo messages, giving, and assistant actions are simulated, and changes may reset.
+
+## Demo experiences
+
+- Member demo: https://gatherwell-demo.vercel.app/member-login
+- Pastor demo: https://gatherwell-demo.vercel.app/pastor-login
+
+## Page sections
+
+- Why GatherWell: https://gatherwell-landing.vercel.app/#why-gatherwell
+- Community: https://gatherwell-landing.vercel.app/#community
+- Demo overview: https://gatherwell-landing.vercel.app/#explore
+- Frequently asked questions: https://gatherwell-landing.vercel.app/#questions
