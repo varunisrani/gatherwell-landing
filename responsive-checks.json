@@ -1,0 +1,257 @@
+[
+    {
+        "width":  320,
+        "height":  740,
+        "pageWidth":  320,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  360,
+        "height":  800,
+        "pageWidth":  360,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  375,
+        "height":  812,
+        "pageWidth":  375,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  390,
+        "height":  844,
+        "pageWidth":  390,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  430,
+        "height":  932,
+        "pageWidth":  430,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  600,
+        "height":  960,
+        "pageWidth":  600,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  767,
+        "height":  1024,
+        "pageWidth":  767,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  768,
+        "height":  1024,
+        "pageWidth":  768,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  800,
+        "height":  1100,
+        "pageWidth":  800,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  820,
+        "height":  1180,
+        "pageWidth":  820,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  834,
+        "height":  1194,
+        "pageWidth":  834,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  1000,
+        "height":  800,
+        "pageWidth":  1000,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  1024,
+        "height":  768,
+        "pageWidth":  1024,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  1180,
+        "height":  820,
+        "pageWidth":  1180,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  1280,
+        "height":  800,
+        "pageWidth":  1280,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  1440,
+        "height":  1000,
+        "pageWidth":  1440,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    },
+    {
+        "width":  1920,
+        "height":  1080,
+        "pageWidth":  1920,
+        "overflow":  [
+
+                     ],
+        "smallTargets":  [
+
+                         ],
+        "missingImages":  [
+
+                          ],
+        "pass":  true
+    }
+]

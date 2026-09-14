@@ -20,3 +20,15 @@ document.addEventListener('keydown', event => {
     menuButton.focus();
   }
 });
+
+// Reset the disclosure after rotating into the desktop navigation layout.
+const desktopLayout = window.matchMedia('(min-width: 1001px)');
+desktopLayout.addEventListener('change', event => {
+  if (event.matches) closeMenu();
+});
+document.addEventListener('click', event => {
+  if (!mobileNav.hidden && !event.target.closest('.site-header')) closeMenu();
+});
+document.addEventListener('focusin', event => {
+  if (!mobileNav.hidden && !event.target.closest('.site-header')) closeMenu();
+});
